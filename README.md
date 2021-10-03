@@ -1,2 +1,2 @@
 # Ecommerce Phone Store
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-hfwhre-26gxun)
+[Want to see it live? ⚡️](https://angular-hfwhre-26gxun.stackblitz.io)
